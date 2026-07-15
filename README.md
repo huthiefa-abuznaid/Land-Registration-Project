@@ -48,3 +48,5 @@ Our team consists of three developers, each responsible for a core module of the
 3. **Field Survey:** The system auto-assigns a surveyor based on zone and availability[cite: 5]. The surveyor conducts a physical check and uploads report metadata[cite: 5].
 4. **Legal Review & Approval:** The registrar reviews the legal documentation, handles any third-party objections, and grants approval[cite: 5].
 5. **Certification & Closure:** The system generates ownership certificate metadata with a QR verification code, and closes the request[cite: 5].
+Team Member
+Huthefa Abuznaid – Land Application Management  Osama Bairate – Applicant Portal & Profiles  Shouibe Awidate – Surveyors, Registrar & Assignment  
